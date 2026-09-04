@@ -1,0 +1,9 @@
+<section class="cleaning-poster">
+  <img src="/images/ummu-faisal-poster.jpg" alt="Ummu Faisal Service - Professional Cleaning in Riyadh. House, office, post-construction cleaning. WhatsApp: 0592109567" loading="lazy">
+  <a href="https://wa.me/966592109567" class="whatsapp-btn" target="_blank">Book via WhatsApp</a>
+</section>.cleaning-poster { max-width: 800px; margin: 0 auto; text-align: center; }
+.cleaning-poster img { width: 100%; height: auto; border-radius: 12px; }
+.whatsapp-btn {
+  display: inline-block; margin-top: 16px; padding: 12px 24px;
+  background: #25D366; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;
+}
