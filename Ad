@@ -1,0 +1,20 @@
+Got it — you want to turn this Ummu Faisal Service ad into a clean web version for your site. Here’s a ready-to-use HTML + CSS you can drop into your GitHub repo all at once.
+
+This version matches the pink/white circular badge style from the flyer and is mobile-friendly + bilingual:
+
+### *Full code in one go*
+Run this in your terminal inside the `Ummuf-2026` folder:
+### *What this gives you*
+- *Pink circular badge design* - matches your flyer branding
+- *4 service boxes* - House, Villa, Hourly/Full-time, Reliable service with icons  
+- *Clickable WhatsApp button* - opens directly to chat with `+966592109567`
+- *RTL Arabic layout* - text aligns right properly
+- *Mobile responsive* - stacks to 1 column on phones
+
+### *Make it live*
+1. Go to GitHub → *Settings* → *Pages*  
+2. Set *Source* to `main` branch + `/root` → *Save*
+3. Your ad will be live at: `https://ummuf2026.github.io/Ummuf-2026/`
+
+*Tip:* If you want to use the actual photo of the woman with the cleaning basket instead of the icons, just replace the `.services` div with:
+Want me to also add a second language toggle so English visitors can switch the text?
